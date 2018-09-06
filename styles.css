@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    align-content: center;
+    align-self: center;
+}
+img{
+    border: solid black 1px;
+    width: 500px
+}
+ul{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+div{
+    background-color: white;
+    color: black;
+    border: solid black 2px;
+}
