@@ -1,0 +1,9 @@
+header{
+    display: flex;
+    align-content: center;
+    align-self: center;
+}
+img{
+    border: solid black 1px;
+    width: 500px
+}
